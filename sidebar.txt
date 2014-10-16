@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[air:home|Door43 (air)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-air|d43-air repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-air/archive/master.zip|d43-air.zip]]
+
+**Recent Changes**
+{{changes>ns = air}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/air|Ethnologue data]]
+
